@@ -1,9 +1,12 @@
 <h3>When I code, I rely on</h3>
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
+  ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-%2300599C?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-%23D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+  ![Linux](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 </p>
 
 
