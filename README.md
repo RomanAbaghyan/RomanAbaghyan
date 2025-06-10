@@ -1,6 +1,7 @@
-- 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages) & Machine Learning**
+- 🌱 I’m currently learning **Back- & Machine Learning**
 - 💬 Ask me about **FastAPI, PostgreSQL, Data Analysis... or anything [here](https://github.com/RomanAbaghyan/RomanAbaghyan/issues)**
 - 📫 How to reach me: **romanabaghyan@gmail.com**
+- 📄 My Resume: **[Download PDF](#)** *(link your resume here)*
 
 <br>
 
@@ -14,29 +15,59 @@
   <a href="https://leetcode.com/RomanAbaghyan" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="https://github.com/RomanAbaghyan" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <hr>
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres" />
-  <img src="https://skillicons.dev/icons?i=docker,git,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,postman,linux" />
 </p>
 
 <hr>
 
-## ⚡️ Stats
+## ⚡️ GitHub Stats
 
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RomanAbaghyan&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="RomanAbaghyan's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=transparent&count_private=true&border_radius=10&locale=en" alt="RomanAbaghyan's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanAbaghyan&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="RomanAbaghyan's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&border_radius=10&locale=en" alt="Streak Stats" />
+</div>
+
+<br>
+
+<div align=center>
+  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=RomanAbaghyan&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<br>
+
+<div align=center>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanAbaghyan&theme=dark&hide_border=true&layout=donut&hide=css,html&langs_count=8&border_radius=10&locale=en" alt="Top Languages" />
 </div>
 
 <hr>
+
+
+## 📊 Contribution Analytics  
+
+### 1. All-Time Stats  
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RomanAbaghyan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=radical&hide_border=true" />
+</div>
+
+### 2. Annual Contributions  
+![Roman's GitHub Contribution Graph](https://ghchart.rshah.org/RomanAbaghyan)
+
+### 3. Real-Time Activity  
+<!-- Refresh every 6 hours -->
+![Roman's Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=RomanAbaghyan&theme=github-dark&hide_border=true&area=true&custom_title=This+Week's+Activity)
+
