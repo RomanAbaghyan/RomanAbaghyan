@@ -54,20 +54,3 @@
 </div>
 
 <hr>
-
-
-## 📊 Contribution Analytics  
-
-### 1. All-Time Stats  
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RomanAbaghyan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=radical&hide_border=true" />
-</div>
-
-### 2. Annual Contributions  
-![Roman's GitHub Contribution Graph](https://ghchart.rshah.org/RomanAbaghyan)
-
-### 3. Real-Time Activity  
-<!-- Refresh every 6 hours -->
-![Roman's Recent Activity](https://github-readme-activity-graph.vercel.app/graph?username=RomanAbaghyan&theme=github-dark&hide_border=true&area=true&custom_title=This+Week's+Activity)
-
