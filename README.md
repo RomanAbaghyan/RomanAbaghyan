@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,postgres,c++" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,C++" />
   <img src="https://skillicons.dev/icons?i=docker,git,postman,numpy,pandas,linux" />
 </p>
 
