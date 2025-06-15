@@ -1,7 +1,7 @@
 - 🌱 I’m currently learning **Back- & Machine Learning**
 - 💬 Ask me about **FastAPI, PostgreSQL, Data Analysis... or anything [here](https://github.com/RomanAbaghyan/RomanAbaghyan/issues)**
 - 📫 How to reach me: **romanabaghyan@gmail.com**
-- 📄 My Resume: **[Download PDF](#)** *(link your resume here)*
+- 📄 My Resume: **[Download PDF](#)**
 
 <br>
 
