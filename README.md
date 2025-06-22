@@ -1,9 +1,11 @@
-- 🌱 I’m currently learning **Back- & Machine Learning**
-- 💬 Ask me about **FastAPI, PostgreSQL, Data Analysis... or anything [here](https://github.com/RomanAbaghyan/RomanAbaghyan/issues)**
-- 📫 How to reach me: **romanabaghyan@gmail.com**
-- 📄 My Resume: **[Download PDF](#)**
+# 👋 Hey there! I'm Roman Abaghyan
 
-<br>
+- 🌱 I’m currently diving deep into **Back-end Development** and **Machine Learning**
+- 💬 I love talking about **FastAPI**, **PostgreSQL**, **Docker**, **Machine Learning** — or anything else!  
+- 📫 Reach me at: **romanabaghyan@gmail.com**
+- 📄 My Resume: **[Download PDF](https://yourdomain.com/roman-abaghyan-resume.pdf)**
+
+---
 
 <div align="center">
   <a href="mailto:romanabaghyan@gmail.com">
@@ -20,37 +22,38 @@
   </a>
 </div>
 
-<hr>
+---
 
 ## 🛠️ Tech Stack
-
-<br>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,postman,linux" />
 </p>
 
-<hr>
+---
 
-## ⚡️ GitHub Stats
+## 🚀 Featured Projects
 
-<br>
+- **[📘 Planner API](https://github.com/RomanAbaghyan/planner-backend)**  
+  FastAPI + PostgreSQL + Docker-based scheduling system with dynamic filters and conflict detection.
 
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&border_radius=10&locale=en" alt="Streak Stats" />
+- **[📊 Data Analysis Projects](https://github.com/RomanAbaghyan?tab=repositories&q=data+analysis)**  
+  Various Jupyter-based analytical projects on datasets like sales, education, and health.
+
+👉 See more in my [GitHub Repositories](https://github.com/RomanAbaghyan?tab=repositories)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&border_radius=10&locale=en" alt="Streak Stats" />
 </div>
 
 <br>
 
-<div align=center>
-  <img width=800 src="https://github-readme-activity-graph.vercel.app/graph?username=RomanAbaghyan&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
+<div align="center">
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=RomanAbaghyan&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
 </div>
 
 <br>
-
-<div align=center>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=RomanAbaghyan&theme=dark&hide_border=true&layout=donut&hide=css,html&langs_count=8&border_radius=10&locale=en" alt="Top Languages" />
-</div>
-
-<hr>
