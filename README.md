@@ -3,7 +3,7 @@
 - 🌱 I’m currently diving deep into **Back-end Development** and **Machine Learning**
 - 💬 I love talking about **FastAPI**, **PostgreSQL**, **Docker**, **Machine Learning** — or anything else!  
 - 📫 Reach me at: **romanabaghyan@gmail.com**
-- 📄 My Resume: **[Download PDF](https://yourdomain.com/roman-abaghyan-resume.pdf)**
+- 📄 My Resume: **[Download PDF](https://github.com/RomanAbaghyan/RomanAbaghyan/blob/main/Roman%20Abaghyan%20CV.pdf)**
 
 ---
 
