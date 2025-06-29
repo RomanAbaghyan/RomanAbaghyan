@@ -11,7 +11,7 @@
   <a href="mailto:romanabaghyan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/roman-abaghyan-b35a7423b/" target="_blank">
+  <a href="https://www.linkedin.com/in/roman-abaghyan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/RomanAbaghyan" target="_blank">
