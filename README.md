@@ -31,7 +31,7 @@
 
 ## 🚀 Featured Projects
 
-- **[📘 Planner API]**  
+- **📘 Planner API**  
   FastAPI + PostgreSQL + Docker-based scheduling system with dynamic filters and conflict detection.
 
 - **[📊 Data Analysis Projects](https://github.com/RomanAbaghyan?tab=repositories&q=data+analysis)**  
