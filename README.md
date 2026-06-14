@@ -114,21 +114,3 @@ Collection of projects focused on:
 ---
 
 ## 📈 GitHub Stats <div align="left"> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&border_radius=10&locale=en" alt="Streak Stats" /> </div> 
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="mailto:romanabaghyan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/roman-abaghyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://leetcode.com/RomanAbaghyan">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
