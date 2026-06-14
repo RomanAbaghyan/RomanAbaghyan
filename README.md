@@ -1,56 +1,134 @@
-# 👋 Hey there! I'm Roman Abaghyan
+# 👋 Hi, I'm Roman Abaghyan
 
-- 🌱 I’m currently diving deep into **Back-end Development** and **Deep Learning**
-- 💬 I love talking about **FastAPI**, **PostgreSQL**, **Docker**, **Deep Learning** — or anything else!  
-- 📫 Reach me at: **romanabaghyan@gmail.com**
-- 📄 My **[Resume](https://github.com/RomanAbaghyan/RomanAbaghyan/blob/main/Roman%20Abaghyan%20CV.pdf)**
+AI Software Engineer focused on building intelligent applications, scalable backend systems, and production-ready machine learning infrastructure.
 
----
+* 🤖 Developing AI-powered applications using Python and modern ML technologies
+* 🚀 Building scalable APIs and data pipelines for AI systems
+* 🧠 Exploring Deep Learning, LLMs, NLP, and AI Automation
+* 📰 Experienced in large-scale data collection, processing, and content classification workflows
+* 🐧 Strong foundation in Linux, Docker, PostgreSQL, and cloud-native development
 
-<div align="center">
-  <a href="mailto:romanabaghyan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/roman-abaghyan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/RomanAbaghyan" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</div>
+📫 **Email:** [romanabaghyan@gmail.com](mailto:romanabaghyan@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/roman-abaghyan/
+
+📄 Resume: https://github.com/RomanAbaghyan/RomanAbaghyan/blob/main/Roman_Abaghyan_CV.pdf
 
 ---
 
-## 🛠️ Tech Stack
+<h3>🤖 AI & ML</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/>
+</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,docker,git,postman,linux" />
+<h3>⚡ Backend & APIs</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+</p>
+
+<h3>🗄️ Databases</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=redis" title="Redis"/>
+</p>
+
+<h3>☁️ Infrastructure & DevOps</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+### 📰 Intelligent Information Analysis Platform
 
-- **📘 Planner API**  
-  FastAPI + PostgreSQL + Docker-based scheduling system with dynamic filters and conflict detection.
+Designed and developed an AI-powered content aggregation and classification platform capable of collecting and processing information from multiple sources.
 
-- **[📊 Data Analysis Projects](https://github.com/RomanAbaghyan?tab=repositories&q=data+analysis)**  
-  Various Jupyter-based analytical projects on datasets like sales, education, and health.
+**Highlights**
 
-👉 See more in my [GitHub Repositories](https://github.com/RomanAbaghyan?tab=repositories)
+* Automated content ingestion pipelines
+* Content classification workflows
+* Data extraction and processing automation
+* Scalable backend architecture
+* Containerized deployment environment
+
+**Tech Stack**
+Python • FastAPI • PostgreSQL • Docker
 
 ---
 
-## 📈 GitHub Stats
+### 🤖 Intelligent Data Processing Systems
 
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&border_radius=10&locale=en" alt="Streak Stats" />
-</div>
+Built backend services for automated data collection, transformation, and analysis.
 
-<br>
+**Highlights**
 
-<div align="center">
-  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=RomanAbaghyan&theme=github-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph" alt="Contribution Graph" />
-</div>
+* Structured and unstructured data processing
+* API-driven architecture
+* Database optimization and management
+* Workflow automation
 
-<br>
+**Tech Stack**
+Python • FastAPI • PostgreSQL
+
+---
+
+### 📊 Data Analysis & Machine Learning Projects
+
+Collection of projects focused on:
+
+* Predictive Analytics
+* Data Exploration
+* Feature Engineering
+* Statistical Analysis
+* Machine Learning Experiments
+  
+---
+
+## 🎯 Current Focus
+
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI Systems
+* Large Language Models
+* Deep Learning
+* MLOps Fundamentals
+* Production AI Infrastructure
+
+---
+
+## 📈 What I'm Building
+
+* AI-powered backend services
+* Intelligent automation workflows
+* Content understanding systems
+* Data collection and processing pipelines
+* Scalable machine learning applications
+
+---
+
+## 📈 GitHub Stats <div align="left"> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&border_radius=10&locale=en" alt="Streak Stats" /> </div> 
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:romanabaghyan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/roman-abaghyan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/RomanAbaghyan">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
