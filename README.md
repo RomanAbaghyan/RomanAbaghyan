@@ -110,7 +110,3 @@ Collection of projects focused on:
 * Content understanding systems
 * Data collection and processing pipelines
 * Scalable machine learning applications
-
----
-
-## 📈 GitHub Stats <div align="left"> <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanAbaghyan&theme=dark&hide_border=true&count_private=true&border_radius=10&locale=en" alt="Streak Stats" /> </div> 
